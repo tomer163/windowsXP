@@ -2,6 +2,6 @@ import Home from '../views/Home.vue'
 
 export default [
     {
-        path: '/', component:Home, name:"Home"
+        path: '/', component:Home, name:"BrowserXp"
     }
 ]

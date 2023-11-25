@@ -187,6 +187,7 @@ $tabheight: 2rem;
 
 .content{
     all:initial;
+    font-family:Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
     position:absolute;
     inset:60px 0 30px 0;
     background:white;

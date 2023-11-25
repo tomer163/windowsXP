@@ -1,7 +1,6 @@
 <template>
-<RouterLink to="/">home</RouterLink>
 <window>
-    <RouterView/>
+    <RouterView class="routerview"/>
 </window>
 <toolbar></toolbar>
 </template>
