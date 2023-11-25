@@ -1,0 +1,32 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+}
+
+h1,h2,p{
+  margin:0;
+  font-size: 1rem;
+}
+
+a{
+  all:unset;
+  cursor:default;
+}
+
+@font-face {
+  font-family: 'tahoma';
+  src: url('./fonts/tahoma.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+body{
+  margin:0;
+  height:100svh;
+  position:relative;
+  background-image: url('./assets/background.jpg');
+  background-size:100% 100vh;
+  background-repeat: no-repeat;
+}
